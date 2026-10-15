@@ -1,0 +1,10 @@
+KPI,Value
+Total shipments,300.0
+On-time rate (%),50.67
+Delayed shipments (%),49.33
+Average delivery time (days),3.12
+Median delivery time (days),3.0
+Average transportation cost (INR),1744.94
+Median transportation cost (INR),1595.52
+Average cost per km (INR/km),3.32
+Average cost per kg (INR/kg),32.47
